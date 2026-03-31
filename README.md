@@ -3,3 +3,6 @@
 2. **[Clustering colab](https://colab.research.google.com/drive/1DFZia1M99-fnztm8KofO5riAhn8_OO_w?usp=sharing)**
 
 3. **[Logistic regression](https://colab.research.google.com/drive/1zFghmI46u39XJT8F7ydB3XQiHsJfljBg?usp=sharing)**
+
+4. **[Penalized regression](https://colab.research.google.com/drive/1s9JxLy_cRfqUaoMCczay0dDgfzyJ5IbY?usp=sharing)**
+5. 
