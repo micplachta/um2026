@@ -6,3 +6,4 @@
 
 4. **[Penalized regression](https://colab.research.google.com/drive/1s9JxLy_cRfqUaoMCczay0dDgfzyJ5IbY?usp=sharing)**
 5. 
+6. **[Tree methods](https://colab.research.google.com/drive/12KiX0TeXHRUgGcECyOW8STPwV7GBqf2d?usp=sharing)**
