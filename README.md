@@ -5,4 +5,4 @@
 5. 
 6. **[Tree methods](https://colab.research.google.com/drive/12KiX0TeXHRUgGcECyOW8STPwV7GBqf2d?usp=sharing)**
 7. **[Gradient boosting](https://colab.research.google.com/drive/15USaJJxJI9YP6m5kGp04xhXgOE_l2Zjz?usp=sharing)**
-
+8. **[Gradient training loop](https://colab.research.google.com/drive/15BMb0DX97g2YMQyR3LSxzSwcvY9ZYgoY?usp=sharing)**
