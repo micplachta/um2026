@@ -7,3 +7,5 @@
 7. **[Gradient boosting](https://colab.research.google.com/drive/15USaJJxJI9YP6m5kGp04xhXgOE_l2Zjz?usp=sharing)**
 8. **[Gradient training loop](https://colab.research.google.com/drive/15BMb0DX97g2YMQyR3LSxzSwcvY9ZYgoY?usp=sharing)**
 9. **[MLP](https://colab.research.google.com/drive/1sau5yvVn84azHDOTxK121XK_32AKyA50?usp=sharing)**
+10.
+11. **[Towards attention](https://colab.research.google.com/drive/1FrnLqoykPUI04sZOkCGrrzOjyqoTvZfP?usp=sharing)**
